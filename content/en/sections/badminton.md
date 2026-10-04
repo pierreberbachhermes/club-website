@@ -1,6 +1,6 @@
 +++
-date = '2026-10-04T21:16:42+02:00'
-title = 'Schedule'
+date = '2026-10-04T21:16:48+02:00'
+title = 'Badminton – VfB Kiefholz'
 lang = "en"
 draft = false
 +++
@@ -18,3 +18,7 @@ Court slots via **Takeactive** app/website. Contact `badminton@kiefholz.de` for 
 
 - Adults: €XXX / month
 - Youth (under 18): €YYY / month
+
+## Contact
+
+Captain: Max Mustermann – 0170 1234567

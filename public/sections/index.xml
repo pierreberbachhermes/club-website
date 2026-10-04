@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Sections on VfB Kiefholz Club Website</title>
+		<link>https://example.org/sections/</link>
+		<description>Recent content in Sections on VfB Kiefholz Club Website</description>
+		<generator>Hugo</generator>
+		<language>de-de</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 04 Oct 2026 21:16:45 +0200</lastBuildDate>
+		
+			<atom:link href="https://example.org/sections/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Badminton – VfB Kiefholz</title>
+				<link>https://example.org/sections/badminton/</link>
+				<pubDate>Sun, 04 Oct 2026 21:16:45 +0200</pubDate>
+				<guid>https://example.org/sections/badminton/</guid>
+				<description>&lt;h2 id=&#34;hall-locations&#34;&gt;Hall locations&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hänselstraße 14, 12437 Berlin&lt;/strong&gt;: Monday 16:00–17:30, Wednesday 16:00–17:30, Saturday 10:30–12:00&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Engelhardstraße 18, 12487 Berlin&lt;/strong&gt;: Wednesday 20:00–22:00&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;booking&#34;&gt;Booking&lt;/h2&gt;&#xA;&lt;p&gt;Court slots via &lt;strong&gt;Takeactive&lt;/strong&gt; app/website. Contact &lt;code&gt;badminton@kiefholz.de&lt;/code&gt; for participation approval.&lt;/p&gt;&#xA;&lt;h2 id=&#34;fees&#34;&gt;Fees&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Adults: €XXX / month&lt;/li&gt;&#xA;&lt;li&gt;Youth (under 18): €YYY / month&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;p&gt;Captain: Max Mustermann – 0170 1234567&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

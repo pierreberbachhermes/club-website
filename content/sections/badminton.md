@@ -1,10 +1,10 @@
 +++
 date = '2026-10-04T21:16:45+02:00'
-draft = true
 title = 'Badminton – VfB Kiefholz'
-lang: de
-draft: false
----
+lang = "de"
+draft = false
++++
+
 ## Hall locations
 
 - **Hänselstraße 14, 12437 Berlin**: Monday 16:00–17:30, Wednesday 16:00–17:30, Saturday 10:30–12:00
@@ -22,4 +22,3 @@ Court slots via **Takeactive** app/website. Contact `badminton@kiefholz.de` for 
 ## Contact
 
 Captain: Max Mustermann – 0170 1234567
-+++

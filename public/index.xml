@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>VfB Kiefholz Club Website</title>
+		<link>https://example.org/</link>
+		<description>Recent content on VfB Kiefholz Club Website</description>
+		<generator>Hugo</generator>
+		<language>de-de</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 04 Oct 2026 21:16:48 +0200</lastBuildDate>
+		
+			<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Badminton – VfB Kiefholz</title>
+				<link>https://example.org/en/sections/badminton/</link>
+				<pubDate>Sun, 04 Oct 2026 21:16:48 +0200</pubDate>
+				<guid>https://example.org/en/sections/badminton/</guid>
+				<description>&lt;h2 id=&#34;hall-locations&#34;&gt;Hall locations&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hänselstraße 14, 12437 Berlin&lt;/strong&gt;: Monday 16:00–17:30, Wednesday 16:00–17:30, Saturday 10:30–12:00&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Engelhardstraße 18, 12487 Berlin&lt;/strong&gt;: Wednesday 20:00–22:00&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;booking&#34;&gt;Booking&lt;/h2&gt;&#xA;&lt;p&gt;Court slots via &lt;strong&gt;Takeactive&lt;/strong&gt; app/website. Contact &lt;code&gt;badminton@kiefholz.de&lt;/code&gt; for participation approval.&lt;/p&gt;&#xA;&lt;h2 id=&#34;fees&#34;&gt;Fees&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Adults: €XXX / month&lt;/li&gt;&#xA;&lt;li&gt;Youth (under 18): €YYY / month&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;p&gt;Captain: Max Mustermann – 0170 1234567&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Badminton – VfB Kiefholz</title>
+				<link>https://example.org/sections/badminton/</link>
+				<pubDate>Sun, 04 Oct 2026 21:16:45 +0200</pubDate>
+				<guid>https://example.org/sections/badminton/</guid>
+				<description>&lt;h2 id=&#34;hall-locations&#34;&gt;Hall locations&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hänselstraße 14, 12437 Berlin&lt;/strong&gt;: Monday 16:00–17:30, Wednesday 16:00–17:30, Saturday 10:30–12:00&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Engelhardstraße 18, 12487 Berlin&lt;/strong&gt;: Wednesday 20:00–22:00&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;booking&#34;&gt;Booking&lt;/h2&gt;&#xA;&lt;p&gt;Court slots via &lt;strong&gt;Takeactive&lt;/strong&gt; app/website. Contact &lt;code&gt;badminton@kiefholz.de&lt;/code&gt; for participation approval.&lt;/p&gt;&#xA;&lt;h2 id=&#34;fees&#34;&gt;Fees&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Adults: €XXX / month&lt;/li&gt;&#xA;&lt;li&gt;Youth (under 18): €YYY / month&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;p&gt;Captain: Max Mustermann – 0170 1234567&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Schedule</title>
+				<link>https://example.org/en/06_schedule/</link>
+				<pubDate>Sun, 04 Oct 2026 21:16:42 +0200</pubDate>
+				<guid>https://example.org/en/06_schedule/</guid>
+				<description>&lt;h2 id=&#34;hall-locations&#34;&gt;Hall locations&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hänselstraße 14, 12437 Berlin&lt;/strong&gt;: Monday 16:00–17:30, Wednesday 16:00–17:30, Saturday 10:30–12:00&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Engelhardstraße 18, 12487 Berlin&lt;/strong&gt;: Wednesday 20:00–22:00&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;booking&#34;&gt;Booking&lt;/h2&gt;&#xA;&lt;p&gt;Court slots via &lt;strong&gt;Takeactive&lt;/strong&gt; app/website. Contact &lt;code&gt;badminton@kiefholz.de&lt;/code&gt; for participation approval.&lt;/p&gt;&#xA;&lt;h2 id=&#34;fees&#34;&gt;Fees&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Adults: €XXX / month&lt;/li&gt;&#xA;&lt;li&gt;Youth (under 18): €YYY / month&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Trainingsplan</title>
+				<link>https://example.org/de/06_schedule/</link>
+				<pubDate>Sun, 04 Oct 2026 21:16:38 +0200</pubDate>
+				<guid>https://example.org/de/06_schedule/</guid>
+				<description>&lt;h2 id=&#34;hall-locations&#34;&gt;Hall locations&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hänselstraße 14, 12437 Berlin&lt;/strong&gt;: Monday 16:00–17:30, Wednesday 16:00–17:30, Saturday 10:30–12:00&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Engelhardstraße 18, 12487 Berlin&lt;/strong&gt;: Wednesday 20:00–22:00&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;booking&#34;&gt;Booking&lt;/h2&gt;&#xA;&lt;p&gt;Court slots via &lt;strong&gt;Takeactive&lt;/strong&gt; app/website. Contact &lt;code&gt;badminton@kiefholz.de&lt;/code&gt; for participation approval.&lt;/p&gt;&#xA;&lt;h2 id=&#34;fees&#34;&gt;Fees&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Adults: €XXX / month&lt;/li&gt;&#xA;&lt;li&gt;Youth (under 18): €YYY / month&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Membership</title>
+				<link>https://example.org/en/04_membership/</link>
+				<pubDate>Sun, 04 Oct 2026 21:16:35 +0200</pubDate>
+				<guid>https://example.org/en/04_membership/</guid>
+				<description>&lt;p&gt;How to join the club&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fill out the membership form (PDF downloadable).&lt;/li&gt;&#xA;&lt;li&gt;Membership fee: €XXX per month for adults, €YYY for youth.&lt;/li&gt;&#xA;&lt;li&gt;Payment via SEPA direct debit or PayPal.&lt;/li&gt;&#xA;&lt;li&gt;Contact the board at &lt;a href=&#34;mailto:board@kiefholz.de&#34;&gt;board@kiefholz.de&lt;/a&gt; for questions.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Mitgliedschaft</title>
+				<link>https://example.org/de/04_membership/</link>
+				<pubDate>Sun, 04 Oct 2026 21:16:33 +0200</pubDate>
+				<guid>https://example.org/de/04_membership/</guid>
+				<description>&lt;p&gt;How to join the club&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fill out the membership form (PDF downloadable).&lt;/li&gt;&#xA;&lt;li&gt;Membership fee: €XXX per month for adults, €YYY for youth.&lt;/li&gt;&#xA;&lt;li&gt;Payment via SEPA direct debit or PayPal.&lt;/li&gt;&#xA;&lt;li&gt;Contact the board at &lt;a href=&#34;mailto:board@kiefholz.de&#34;&gt;board@kiefholz.de&lt;/a&gt; for questions.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Imprint / DSGVO</title>
+				<link>https://example.org/en/03_legal/</link>
+				<pubDate>Sun, 04 Oct 2026 21:16:32 +0200</pubDate>
+				<guid>https://example.org/en/03_legal/</guid>
+				<description>&lt;p&gt;Club registration (Vereinsregister): VR XYZ Berlin.&#xA;Chairperson: Max Mustermann.&#xA;Data processing purposes: member management, training organisation.&#xA;Member rights: access, correction, deletion of personal data.&#xA;Liability disclaimer for sports activities.&#xA;No commercial advertising without disclosure.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Impressum / DSGVO</title>
+				<link>https://example.org/de/03_legal/</link>
+				<pubDate>Sun, 04 Oct 2026 21:16:30 +0200</pubDate>
+				<guid>https://example.org/de/03_legal/</guid>
+				<description>&lt;p&gt;Club registration (Vereinsregister): VR XYZ Berlin.&#xA;Chairperson: Max Mustermann.&#xA;Data processing purposes: member management, training organisation.&#xA;Member rights: access, correction, deletion of personal data.&#xA;Liability disclaimer for sports activities.&#xA;No commercial advertising without disclosure.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Über uns – VfB Kiefholz</title>
+				<link>https://example.org/02_about/</link>
+				<pubDate>Sun, 04 Oct 2026 21:16:29 +0200</pubDate>
+				<guid>https://example.org/02_about/</guid>
+				<description>&lt;p&gt;Willkommen bei der Abteilung Badminton des VfB Kiefholz. Wir bieten Training für Einsteiger und Fortgeschrittene an.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>VfB Kiefholz – One club for all nations</title>
+				<link>https://example.org/01_homepage/</link>
+				<pubDate>Sun, 04 Oct 2026 21:16:27 +0200</pubDate>
+				<guid>https://example.org/01_homepage/</guid>
+				<description>&lt;h1 id=&#34;willkommen-bei-vfb-kiefholz&#34;&gt;Willkommen bei VfB Kiefholz&lt;/h1&gt;&#xA;&lt;p&gt;Wir sind eine lebendige Sportgemeinschaft in Berlin‑Treptow. Hier findest du alle unsere Sparten und Informationen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;unsere-sparten&#34;&gt;Unsere Sparten&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;sections/badminton&#34;&gt;Badminton – VfB Kiefholz&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;sections/volleyball&#34;&gt;Volleyball – VfB Kiefholz&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;sections/basketball&#34;&gt;Basketball – VfB Kiefholz&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;sections/cricket&#34;&gt;Cricket – VfB Kiefholz&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;{{ .Content }}&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

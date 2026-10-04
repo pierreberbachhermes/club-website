@@ -1,10 +1,10 @@
 +++
 date = '2026-10-04T21:16:38+02:00'
-draft = true
 title = 'Trainingsplan'
-lang: de
-draft: false
----
+lang = "de"
+draft = false
++++
+
 ## Hall locations
 
 - **Hänselstraße 14, 12437 Berlin**: Monday 16:00–17:30, Wednesday 16:00–17:30, Saturday 10:30–12:00
@@ -18,4 +18,3 @@ Court slots via **Takeactive** app/website. Contact `badminton@kiefholz.de` for 
 
 - Adults: €XXX / month
 - Youth (under 18): €YYY / month
-+++
