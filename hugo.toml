@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+locale = 'de-de'
+title = 'VfB Kiefholz Club Website'
+defaultContentLanguage = "de"
